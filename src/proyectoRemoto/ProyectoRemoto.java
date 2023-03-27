@@ -97,9 +97,10 @@ public class ProyectoRemoto {
 						NoHayAlumno();
 						break;
 					case 24:
-						NoHayAlumno();
+						System.out.println("Hola, soy Angel85 tambien");
 						break;
 					case 25:
+						//Este seria un ejemplo
 						System.out.println("Hola, soy Angel85");
 						break;
 						
