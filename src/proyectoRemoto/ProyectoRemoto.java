@@ -31,7 +31,7 @@ public class ProyectoRemoto {
 						NoHayAlumno();
 						break;
 					case 2:
-						NoHayAlumno();
+						System.out.println("pablo Álvarez González");
 						break;
 					case 3:
 						NoHayAlumno();
