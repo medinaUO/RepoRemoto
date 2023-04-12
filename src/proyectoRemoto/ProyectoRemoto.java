@@ -61,7 +61,7 @@ public class ProyectoRemoto {
 						NoHayAlumno();
 						break;
 					case 12:
-						NoHayAlumno();
+						System.out.println("Hola, soy Ainhoa Lodeiro López");
 						break;
 					case 13:
 						NoHayAlumno();
