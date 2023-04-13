@@ -52,7 +52,7 @@ public class ProyectoRemoto {
 						NoHayAlumno();
 						break;
 					case 9:
-						NoHayAlumno();
+						System.out.println("Buenasss, Ruben18");
 						break;
 					case 10:
 						NoHayAlumno();
