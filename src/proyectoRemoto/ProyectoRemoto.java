@@ -28,10 +28,10 @@ public class ProyectoRemoto {
 				switch (valorEntradaTeclado) 
 				{
 					case 1:
-						NoHayAlumno();
+						System.out.println("Hola, soy Nel Antonio Burón Arenas");
 						break;
 					case 2:
-						System.out.println("pablo Álvarez González");
+						System.out.println("Pablo Álvarez González");
 						break;
 					case 3:
 						NoHayAlumno();
@@ -49,7 +49,7 @@ public class ProyectoRemoto {
 						System.out.println("Wismy: Feliz Navidad");
 						break;
 					case 8:
-						System.out.println("Hola, soy Adán Barrero Vega
+						System.out.println("Hola, soy Adán Barrero Vega");
 						break;
 					case 9:
 						System.out.println("Buenasss, Ruben18");
