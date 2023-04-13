@@ -40,7 +40,7 @@ public class ProyectoRemoto {
 						NoHayAlumno();
 						break;
 					case 5:
-						NoHayAlumno();
+						System.out.println("Raúl Bustelo Martínez");
 						break;
 					case 6:
 						NoHayAlumno();
