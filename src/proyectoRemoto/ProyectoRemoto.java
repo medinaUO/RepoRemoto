@@ -58,7 +58,7 @@ public class ProyectoRemoto {
 						NoHayAlumno();
 						break;
 					case 11:
-						NoHayAlumno();
+						System.out.println("Ivan del Llano Blanco");
 						break;
 					case 12:
 						NoHayAlumno();
