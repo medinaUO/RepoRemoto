@@ -49,7 +49,7 @@ public class ProyectoRemoto {
 						System.out.println("Wismy: Feliz Navidad");
 						break;
 					case 8:
-						NoHayAlumno();
+						System.out.println("Hola, soy Adán Barrero Vega");
 						break;
 					case 9:
 						NoHayAlumno();
