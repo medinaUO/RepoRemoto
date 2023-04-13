@@ -46,7 +46,7 @@ public class ProyectoRemoto {
 						System.out.println("Salut, sunt Claudiu Ioan Emanuel Boieroiu48");
 						break;
 					case 7:
-						NoHayAlumno();
+						System.out.println("Wismy: Feliz Navidad");
 						break;
 					case 8:
 						NoHayAlumno();
